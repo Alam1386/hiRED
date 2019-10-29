@@ -1,31 +1,30 @@
-<img src="hired.png" width=700>
+<img src="hired.png" width=700 align="middle" >
+
 # hiRED
 
 hiRED is a full stack web application that connects students with alumni mentors. There is a list of available mentors that a student can filter based on their skills, name, and program. The student can then decide whether they want to chat with the mentor and make an appointment. Students can also upload their work and projects in order to display their portfolio.
 
 Starting server in Linux: sudo NODE_ENV=development yarn start:dev# hiRED
-<img src="daria.png" width=700 align="middle" >
+
 
 ## Technoloogies used: 
 
-* WordPress
-* Shopify API
-* JavaScript 
-* HTML
-* SASS
-* Gulp
+* React Js
+* Redux
+* Apollo
+* GraphQL
+* Express
 * Git
 
 ## Software used in this Project:
 
-* Brackets Text Editor
-* iTerm2
-* Git
+* Visual Studio Code
+* GitHub
 * Google Chrome Developer Tools
 
 ## Developed by:
-Alam Talash & three classmates
+Alam Talash & five classmates
 
 @: RED Academy Toronto
 
-#### Date: March 2019
+#### Date: May 2019
