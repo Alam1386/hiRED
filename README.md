@@ -1,4 +1,4 @@
-<img src="hired.png" width=700 align="middle" >
+<img src="hired.png" width=600 align="middle" >
 
 # hiRED
 
@@ -14,6 +14,7 @@ Starting server in Linux: sudo NODE_ENV=development yarn start:dev# hiRED
 * Apollo
 * GraphQL
 * Express
+* PostGreSQL
 * Git
 
 ## Software used in this Project:
